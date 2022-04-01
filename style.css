@@ -1,0 +1,31 @@
+body{
+    background-image:url("https://image.shutterstock.com/image-vector/beautiful-background-pink-blue-light-260nw-1048357552.jpg");
+    background-size: cover;
+}
+
+.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+#btn_1{
+    width: 300px;
+    height: 30px;
+    background-color:rgb(250, 128, 165);
+    border-style:ridge;
+    border-color: rgb(67, 181, 247);
+    border-width: 5px;
+
+}
+
+#output{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #cb32a9;
+padding: 10px;
+float: none;
+text-align: left;
+}
